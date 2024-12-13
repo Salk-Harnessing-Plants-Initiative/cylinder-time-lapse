@@ -5,7 +5,7 @@
 ---
 
 ## Table of Contents
-- [Project Overview](#project-overview)
+- [Project Overview](#cylinder-time-lapse)
 - [Features](#features)
 - [Quickstart](#quickstart)
 - [File Organization](#file-organization)
